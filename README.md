@@ -1,2 +1,2 @@
-# anomaly_detection
+# Anomaly detection
 Repository for the Fraud detection paper
